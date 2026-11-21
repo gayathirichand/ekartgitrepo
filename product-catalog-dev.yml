@@ -8,5 +8,5 @@ spring:
      ddl-auto: update 
     show-sql: true
 
-message: welcome  in development mode!!!
+message: welcome  in development environment!!!
 
